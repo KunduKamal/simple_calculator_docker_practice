@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Set the default command to run your application
-CMD ["python", "Calculator.py"]
+CMD ["python", "calculator.py"]
