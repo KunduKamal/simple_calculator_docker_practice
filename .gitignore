@@ -1,0 +1,11 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore the xcel file
+.xcel
+
+# Ignore the dist directory
+dist/
